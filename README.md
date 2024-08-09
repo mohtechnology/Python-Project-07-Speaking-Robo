@@ -1,4 +1,4 @@
-# Python-Project-07-Speaking-Robo-using-win32com
+# Python-Project-07-Speaking-Robo-using-win32com-&-pyttsx3
 In this tutorial, we'll guide you through the process of creating a speaking robot using Python! We will focus on two powerful libraries: `win32com` and `pyttsx3`. By the end of this video, you'll be able to make your Python applications speak out loud.
 
 🔹 Topics Covered:
