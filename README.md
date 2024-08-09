@@ -13,11 +13,7 @@ pip install pyttsx3
 ```
 4. Providing the source code for easy reference.
 
-🔗 Source Code using win32com: 
-[Click Here](https://replit.com/@Mohtechnology/Python-Project-07-Speaking-Robo-using-win32com)
-
-🔗 Source Code using pyttsx3: 
-[Click Here](https://replit.com/@Mohtechnology/Python-Project-07-Speaking-Robo-using-pyttsx3)
+## 🔗 **Video Link:** [Click Here To Open Video](https://youtu.be/g_syh3YyyaE)
 
 📌 Don't forget to like, comment, and subscribe for more Python tutorials!
 
